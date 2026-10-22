@@ -1,4 +1,4 @@
-# Online Fighting RPG (Python + Pygame)
+# Myth Forge (Python + Pygame)
 
 A 2D side-scrolling fighting RPG with multiple saved characters, class skills with rebindable
 J/K keys, stat allocation, level 1-3000, professions, a player marketplace plus NPC vendors, solo
