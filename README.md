@@ -12,7 +12,7 @@ python -m venv .venv
 python -m pip install -r requirements.txt
 python -m client.main                  # or press Run on client/main.py in PyCharm
 ```
-Always run from the `online_fighting_rpg` folder.
+Always run from the `mythforge-main` folder.
 
 ### Playing alone (works offline)
 Click **Host a Game**. This starts the game server on your computer and joins it. Register an
